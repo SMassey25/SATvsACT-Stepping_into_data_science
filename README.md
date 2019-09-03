@@ -2,8 +2,6 @@
 
 This is my first data science related lab. In this project I will take a look at aggregate SAT and ACT scores and participation rates from each state in the United States, will try to identify trends in the data and combine our data analysis with outside research to identify likely factors influencing participation rates and scores in various states.
 
-Learning Objectives 
-
 ---
 
 ### Learning Objectives
